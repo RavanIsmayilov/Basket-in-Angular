@@ -1,0 +1,4 @@
+<div *ngFor="let product of products" class="product-item">
+    <p>{{ product.name }}</p>
+    <button (click)="remove.emit(product.id)">Remove from Shopping Cart</button>
+  </div>

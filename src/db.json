@@ -1,0 +1,53 @@
+{
+    "products": [
+      {
+        "id": "y8z0As",
+        "brand": "Milwaukee",
+        "name": "6 in. #3 Phillips Screwdriver with Cushion Grip",
+        "price": 1497,
+        "description": "Featuring an anti-peel handle design, hardened tips and forged shanks the Milwaukee cushion grip screwdrivers provide professional grade solutions and durability to the user. The Tactile identification, a new-to-world innovation allows users to accurately select the correct driver without looking. The wrench-ready bolster and Precision knurling offers users the features needed to increase efficiency and effectiveness."
+      },
+      {
+        "id": "3u98Kl",
+        "brand": "Crescent",
+        "name": "6 in. and 10 in. Chrome Cushion Grip Adjustable Wrench Set (2-Piece)",
+        "price": 2497,
+        "description": "This Crescent 2-Piece Adjustable Wrench Set is a staple for any tool box and features wide-capacity jaws to accommodate a variety of fastener sizes. Wrenches feature laser etched SAE and Metric scales on the wrench head as well as a cushioned handle for increased comfort and control. The polished chrome wipes clean easily and resists rust or corrosion. The set includes a 6 in. wrench and a 10 in. wrench to tackle a variety of jobs."
+      },
+      {
+        "id": "ae098s",
+        "brand": "DEWALT",
+        "name": "15 in. Tooth Saw with Aluminum Handle",
+        "price": 2597,
+        "description": "The Dewalt 15 in. Hand Saw with Blade Armor features ToughCoat, a long-lasting, low-friction coating that helps reduce drag, and induction-hardened teeth that stay sharp for a long time. This saw is great for framers, woodworkers and general contractors."
+      },
+      {
+        "id": "8amkZ9",
+        "brand": "Milwaukee",
+        "name": "9 in. 7-in-1 High Leverage Combination Pliers",
+        "price": 2997,
+        "description": "The Milwaukee 7-in-1 High-Leverage Combination Pliers feature seven core functions for electrical installation. These Milwaukee pliers feature a crimper, wire cutter, wire stripper, loop maker, reamer, and bolt cutter. The wide jaw pliers make grabbing and twisting wire easy, while the crimper provides users with added functionality when working with both insulated and non-insulated terminals. The wire cutter, wire stripper, and loop maker allow users to make quick wire preparation. The built-in reamer allows users to ream ½ in. through 1 in. conduit, while the bolt cutter cuts #6 and #8 bolts. A swing-lock design delivers fast, 1-handed operation, and the high-leverage handles make cutting and crimping easier."
+      },
+      {
+        "id": "l3M0nz",
+        "brand": "DEWALT",
+        "name": "16 oz. Steel Rip Claw Nailing Hammer",
+        "price": 2397,
+        "description": "This 16 oz. Rip Claw Steel hammer offers a balanced design which allows for a smooth swing. It includes a multi-use side nail puller which allows you to quickly and easily remove framing and finishing nails as well as staples. with decades of testing under our belt, we offer a tear resistant and anti-slip grip. Use this hammer for your next framing or finishing job, no matter the jobsite condition. This hammer also features a magnetic nail start for 1-handed nail placement."
+      },
+      {
+        "id": "KJVXEW1",
+        "brand": "RIDGID",
+        "name": "1/4 in. to 1-1/8 in. 101 Close Quarters Copper, Aluminum, Brass, and Plastic Tubing Cutter, Multi-Use Tubing Tool",
+        "price": 1788,
+        "description": " Specially crafted for working in tight and cramped spaces, the RIDGID Model 101 Tubing Cutter supports multilayer tubing. It has a 1/4-inch to 1-1/8-inch cutting capacity and can cut through various metal types such as hard and soft copper, aluminum, brass, and plastic tubing, making it a versatile pipe cutter tool that's a must-have for any plumber's toolbox. Thanks to a lightweight and sturdy slide-and-wheel housing, it's compact and durable. A large knurled feed screw knob gives you better control when applying cutting pressure for clean cuts, and grooved rollers are ideal for close-to-flare cuts. This pipe cutter for metals includes a convenient spare cutter wheel in the knob for maximum uptime, so your tool is always ready to go."
+      },
+      {
+        "id": "Ka0EeNM",
+        "brand": "TEKTON",
+        "name": "1/4 in., 3/8 in., 1/2 in. Swivel Head Ratchet Set (3-Piece)",
+        "price": 5544,
+        "description": "The 72-tooth ratcheting system offers a concise 5° swing arc that works in tight spaces. Single pawl maintains 15 teeth in contact with the gear at all times, ensuring it will never slip or skip under stress. Lock-On Quick Release Drive: The drive tang engages and retains sockets with a detent ball backed by a locking pin. Once it's engaged, the socket is securely locked on it won't accidentally fall off or be pulled off by sticking on a fastener. Pressing the release button drops the detent ball out of the way so sockets can effortlessly slide on to or simply fall off, the drive tang, even making a 1-handed socket change possible. Comfortable, Nonslip Handle: 2-material molded handle has soft grips for nonslip control, even with greasy hands."
+      }
+    ]
+  }

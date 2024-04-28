@@ -1,0 +1,4 @@
+<div class="product-item" *ngFor="let product of products">
+    <p>{{ product.name }}</p>
+    <button (click)="add.emit(product.id)">Add to Shopping Cart</button>
+  </div>
